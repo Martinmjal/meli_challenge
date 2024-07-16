@@ -1,3 +1,7 @@
 *.json
 *.jsonlines
 *.pdf
+docs
+*.txt
+*.csv
+*.png
