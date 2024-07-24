@@ -1,3 +1,3 @@
 # meli_challenge
 
-Repo to host the challenge to get hired by MeLi
+Repo to host the MeLi challenge
